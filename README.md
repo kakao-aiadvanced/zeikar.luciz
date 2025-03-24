@@ -1,0 +1,2 @@
+# zeikar.luciz
+AI Advanced
